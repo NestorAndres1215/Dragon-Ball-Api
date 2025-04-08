@@ -22,5 +22,4 @@ Una aplicación web hecha en **HTML, CSS y JavaScript Vanilla** que muestra todo
 
 ## 📸 Capturas
 
-![Screenshot](![image](https://github.com/user-attachments/assets/df301cc0-1e26-4d15-8d36-91f144614d92)
-)
+![image](https://github.com/user-attachments/assets/0ccaae70-b4fd-42af-bc60-4ee7b87b5c7c)
