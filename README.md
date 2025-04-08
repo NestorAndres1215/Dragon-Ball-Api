@@ -2,10 +2,6 @@
 
 Una aplicación web hecha en **HTML, CSS y JavaScript Vanilla** que muestra todos los personajes de **Dragon Ball** consumiendo datos desde la [API pública DragonBall-API](https://web.dragonball-api.com/).
 
-## 🌐 Demo
-
-> Próximamente… (puedes subirlo a GitHub Pages o Netlify)
-
 ## 🧠 Funcionalidades
 
 - ✅ Lista completa de personajes de Dragon Ball
